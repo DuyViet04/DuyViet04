@@ -32,9 +32,9 @@
 
 ### 📊 Thống kê GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vyes&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DuyViet04&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyes&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuyViet04&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
