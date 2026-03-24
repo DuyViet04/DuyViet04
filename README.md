@@ -51,6 +51,6 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/TrịnhDuyViệt/TrịnhDuyViệt/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/DuyViet04/DuyViet04/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 </div>
