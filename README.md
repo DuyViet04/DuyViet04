@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner -->
-<img src="./vyes_banner.png" alt="Vyes Banner" width="100%">
+// <img src="./vyes_banner.png" alt="Vyes Banner" width="100%">
 
 # 👋 Xin chào, mình là Vyes (Trịnh Duy Việt)!
 
